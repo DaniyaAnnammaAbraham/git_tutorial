@@ -2,4 +2,3 @@ happy
 welcome to the git tutorial
 added the commit
 new feature to be added
-feature 3 added
