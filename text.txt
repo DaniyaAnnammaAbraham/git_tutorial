@@ -1,2 +1,3 @@
 happy
 welcome to the git tutorial
+added the commit
